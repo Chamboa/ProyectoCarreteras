@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "ProyectoCarreteras\\ProyectoCarreteras.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BLL\\BLL.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DAL\\DAL.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ENT\\ENT.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

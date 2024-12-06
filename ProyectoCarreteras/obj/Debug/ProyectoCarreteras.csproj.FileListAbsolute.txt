@@ -1,0 +1,2 @@
+C:\Users\Usuario\source\repos\ProyectoCarreteras\ProyectoCarreteras\obj\Debug\ProyectoCarreteras.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoCarreteras\ProyectoCarreteras\obj\Debug\ProyectoCarreteras.csproj.CoreCompileInputs.cache
